@@ -4,8 +4,8 @@
     <reapack name="Auto hide item envelopes" type="script" desc="Auto hide and restore take envelopes on small items">
       <metadata>
         <description><![CDATA[{
-* Auto-hide take envelopes when items become too small
-* Automatically restore envelopes when item height increases
+* Automatically hides take envelopes when the item's height under the mouse cursor is too small
+* Restores envelopes when item height increases or the mouse cursor is no longer hovering the item
 * Configurable height threshold
 }]]></description>
       </metadata>
