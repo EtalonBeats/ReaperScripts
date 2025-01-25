@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="Etalon Scripts" commit="$commit">
+  <category name="Items">
+    <reapack name="Auto hide item envelopes" type="script" desc="Auto hide and restore take envelopes on small items">
+      <metadata>
+        <description><![CDATA[{
+* Auto-hide take envelopes when items become too small
+* Automatically restore envelopes when item height increases
+* Configurable height threshold
+}]]></description>
+      </metadata>
+      <version name="1.0" author="Etalon">
+        <source main="main" file="Auto hide item envelopes/Etalon_Auto hide and restore take envelopes on small item under cursor.lua">https://github.com/EtalonBeats/ReaperScripts/raw/main/Scripts/Etalon%20Scripts/Auto%20hide%20item%20envelopes/Etalon_Auto%20hide%20and%20restore%20take%20envelopes%20on%20small%20item%20under%20cursor.lua</source>
+        <source main="main" file="Auto hide item envelopes/Etalon_Auto hide and restore take envelopes on small item (set px threshold).lua">https://github.com/EtalonBeats/ReaperScripts/raw/main/Scripts/Etalon%20Scripts/Auto%20hide%20item%20envelopes/Etalon_Auto%20hide%20and%20restore%20take%20envelopes%20on%20small%20item%20(set%20px%20threshold).lua</source>
+        <source file="Auto hide item envelopes/autohide_config.txt">https://github.com/EtalonBeats/ReaperScripts/raw/main/Scripts/Etalon%20Scripts/Auto%20hide%20item%20envelopes/autohide_config.txt</source>
+      </version>
+    </reapack>
+  </category>
+</index>
