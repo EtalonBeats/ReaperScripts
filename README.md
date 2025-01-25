@@ -9,6 +9,6 @@ Collection of REAPER scripts by Etalon.
 
 ## Scripts
 ### Auto hide item envelopes
-- Automatically hides take envelopes when items become too small
-- Restores envelopes when item height increases
+- Automatically hides take envelopes when the item's height under the mouse cursor is too small
+- Restores envelopes when item height increases or the mouse cursor is no longer hovering the item
 - Configurable height threshold
